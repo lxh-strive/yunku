@@ -1,0 +1,8 @@
+演出表 
+	添加:
+		演出分类字典(dict_code            char(6) comment '分类字典代码(二级分类)',）
+		演出标签 (tags                 varchar(200) comment '标签集合'),
+	修改：
+	   演出状态字段status修改为perform_status
+
+	

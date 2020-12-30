@@ -1,0 +1,10 @@
+INSERT INTO `videosubtype` VALUES (1, 1, '大陆', NULL);
+INSERT INTO `videosubtype` VALUES (2, 1, '港台', NULL);
+INSERT INTO `videosubtype` VALUES (3, 1, '日韩', NULL);
+INSERT INTO `videosubtype` VALUES (4, 1, '欧美', NULL);
+INSERT INTO `videosubtype` VALUES (5, 2, '拳击', NULL);
+INSERT INTO `videosubtype` VALUES (6, 2, '足球', NULL);
+INSERT INTO `videosubtype` VALUES (7, 2, 'NBA', NULL);
+INSERT INTO `videosubtype` VALUES (8, 3, '明星', NULL);
+INSERT INTO `videosubtype` VALUES (9, 3, '综艺', NULL);
+INSERT INTO `videosubtype` VALUES (10, 3, '段子', NULL);

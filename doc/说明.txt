@@ -1,0 +1,11 @@
+1.导入SQL脚本,及测试数据
+2.修改数据库信息
+ 配置文件路径:com.baocloud.yunku.dao.config.db.properties
+  说明
+	mysql.user=root
+	mysql.password=root123ABC@163.com
+	mysql.url=jdbc:mysql://127.0.0.1:3306/luliujun?useUnicode=true&characterEncoding=UTF8
+	mysql.driver=com.mysql.jdbc.Driver
+3.登录地址
+http://127.0.0.1:8080/yunku/login.jsp
+账号 wzr01@qq.com 密码 07050804
